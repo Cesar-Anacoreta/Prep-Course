@@ -1,0 +1,32 @@
+9Conceptos basicos de programación
+
+1. Variables:
+
+Las variables son espacios que nosotros designamos y donde sabemos donde estará algo qu enecesitaremos despues, es como seleccionar 
+una compartimento en el armario, colocarle un nombre y saber que en ese espacio que hemos designado con un nombre sinempre encontraremos 
+lo que hayamos guardado ahí.
+
+2. Strings:
+
+String es solamente una palabra, tal cual, texro que podemos leer en lenguaje cotidiano, una cadena de caracteres alfanumericos que no se 
+procesan, solo es texto.
+
+3. Funciones (argumentos, return)
+
+En esta ectructura estamos indicando una tarea completa donde al indicar que la queremos se va a ejecutar tal cual lo hayamos diseñado
+por ejemplo una función sería como una tarea del hogar como "lavar", pero necesitamos un argumento que sería algo especifico, por ejemplo
+"platos" y el return sería el resultado de esa instrucción, entonces si yo solicito la funcion Lavar (platos) mi resultado o return serían
+Platos limpios.
+
+4. Declaraciones
+
+Las declaraciones son las condiciones que se dan a una funcion de modo que se evaluen esas condiciones y si se cumplen o no determine que es
+lo que va a proseguir en el flujo de acciones del programa, dicho de manerea mas sencilla las declaraciones son las instrucciones que va a seguir 
+nuestro programa para tomar decisiones de que hacer y como hacerlo.
+
+5. Valores booleanos
+
+Los valores booleanos son espacios de información donde solo se almacena un estado del bit, ya sea que exista o no exista, es tal cual como decir
+si esta o no está, es como un apagador, lo presionas y enciende o no lo presionas y se mantiene apagada la lampara.
+
+
